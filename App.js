@@ -12,6 +12,7 @@ export default function App() {
   function HappyPicture(){
     setImage(require("./assets/Happy.jpg"))
   }
+  
   function SadPicture(){
     setImage(require("./assets/Sad.jpg"))
   }
